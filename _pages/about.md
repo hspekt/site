@@ -12,11 +12,11 @@ I did undergrad in chemistry [Cornell University](http://www.cornell.edu) thanks
 
 Feel free to contact me at `specht.h at husky dot neu dot edu` to discuss any of the following topics: 
 
-Finding a great graduate school mentor
-Graduate school in general
-Proteomics
-R programming
-Mountain biking... 
+  - Finding a great graduate school mentor
+  - Graduate school in general
+  - Proteomics
+  - R programming
+  - Mountain biking... 
 
 
 **_Website built on the Reverie template for GitHub Pages by Amit Merchant, thanks Amit!_**
