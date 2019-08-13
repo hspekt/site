@@ -4,26 +4,19 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+![about-picture](/images/image-hs.jpg){:.about-picture}
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Welcome to the personal website of Harrison Specht!
 
-## Features
+I did undergrad in chemistry [Cornell University](http://www.cornell.edu) thanks to a wonderful high school chemistry teacher, then was incredibly fortunate to work for the Proteomic Core at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org). These experience have led me to graduate school at [Northeastern University Department of Bioengineering](http://www.bioe.neu.edu/) and a wonderful [lab](https://slavovlab.net/index.html) where I get to (okay, try to) solve proteomics and biology puzzles all day! 
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Feel free to contact me at `specht.h at husky dot neu dot edu` to discuss any of the following topics: 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Finding a great graduate school mentor
+Graduate school in general
+Proteomics
+R programming
+Mountain biking... 
+
+
+**_Website built on the Reverie template for GitHub Pages by Amit Merchant, thanks Amit!_**
