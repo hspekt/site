@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![about-picture](/images/image-hs.jpg){:.about-picture}
+![about-picture](/images/image-hs.JPG){:.about-picture}
 
 Welcome to the personal website of Harrison Specht!
 
