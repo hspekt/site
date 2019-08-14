@@ -7,6 +7,8 @@ description: Current research interests
 
 ### Current research projects.
 
+<br/><br/>
+
 ![](/site/images/SCOPE2-ac.png)
 ### [Single cell proteomics](https://scope2.slavovlab.net/)
 
