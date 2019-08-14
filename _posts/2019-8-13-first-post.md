@@ -4,4 +4,6 @@ title: Test
 categories: Miscellaneous
 ---
 
-test
+### Placeholder blog post
+
+test test test
