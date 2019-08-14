@@ -9,7 +9,12 @@ description:
 
 ### Single Cell Proteomics Conference, 2019.
 
+<center>
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/mz6Yq2XSu-8/0.jpg)](http://www.youtube.com/watch?v=mz6Yq2XSu-8 "Designing Single Cell Experiments")
+
+</center>
+
 
 <br/><br/>
 
