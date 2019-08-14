@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Test
+title: First post
 categories: Miscellaneous
 ---
 
-### Placeholder blog post
-
-test test test
+Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. 
