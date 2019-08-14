@@ -7,11 +7,7 @@ description:
 
 ### Single Cell Proteomics Conference, 2019.
 
-<p align="justify">
-
-  [![SCP2019](http://img.youtube.com/vi/mz6Yq2XSu-8/0.jpg)](http://www.youtube.com/watch?v=mz6Yq2XSu-8 "Designing Single Cell Experiments")
-
-</p>
+->[![SCP2019](http://img.youtube.com/vi/mz6Yq2XSu-8/0.jpg)](http://www.youtube.com/watch?v=mz6Yq2XSu-8 "Designing Single Cell Experiments")<-
 
 <br/><br/>
 
