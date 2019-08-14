@@ -13,12 +13,14 @@ description:
 
 ### Model, Inference and Algorithms, Broad Institute, 2019.
 
+[![MIA](http://img.youtube.com/vi/P0-_gDUNikc/0.jpg)](http://www.youtube.com/watch?v=P0-_gDUNikc "Quantifying proteins by mass spec")
 
 
 <br/><br/>
 
 ### Single Cell Proteomics Conference, 2018.
 
+[![SCP2018](http://img.youtube.com/vi/w48VxHymqo0/0.jpg)](http://www.youtube.com/watch?v=w48VxHymqo0 "Automated sample prep for single cell proteomics")
 
 
 <br/><br/>
