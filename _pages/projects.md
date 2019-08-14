@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /site/research/
+permalink: /research/
 description: Current research interests
 ---
 
