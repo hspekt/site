@@ -5,7 +5,7 @@ permalink: /research/
 description: Current research interests
 ---
 <br/>
-[![](/site/images/SCOPE2-ac.png)](https://scope2.slavovlab.net/)
+[![](/images/SCOPE2-ac.png)](https://scope2.slavovlab.net/)
 
 ### [Project website here](https://scope2.slavovlab.net/)
 
