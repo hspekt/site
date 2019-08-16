@@ -6,6 +6,10 @@ description: Current research interests
 ---
 <br/>
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=Z2G1YhoAAAAJ)
+
+<br/>
+
 ### Selected publications
 
 **Harrison Specht**, Ed Emmott, Toni Koller, Nikolai Slavov. "High-throughput single-cell proteomics quantifies the emergence of macrophage heterogeneity." ***bioRxiv*** 2019. doi.org/10.1101/665307

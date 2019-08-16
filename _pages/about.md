@@ -12,6 +12,8 @@ permalink: /about/
   - Proteomics Core at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org)
   - Graduate school at [Northeastern University](http://www.bioe.neu.edu/)
   - Current: [Slavov lab](https://slavovlab.net/index.html), proteomics problems and biology puzzles all day! 
+  
+<a href="{{ site.baseurl }}/images/cv/hs-cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 
 Feel free to contact me at `specht.h at husky dot neu dot edu` to discuss any of the following topics: 
 
