@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /publications/
 description: Current research interests
 ---
 <br/>
@@ -9,6 +9,8 @@ description: Current research interests
 ### Selected publications
 
 **Harrison Specht**, Ed Emmott, Toni Koller, Nikolai Slavov. "High-throughput single-cell proteomics quantifies the emergence of macrophage heterogeneity." ***bioRxiv*** 2019. doi.org/10.1101/665307
+
+<br/>
 
 [![](/images/SCOPE2-ac.png)](https://scope2.slavovlab.net/)
 
@@ -21,6 +23,8 @@ description: Current research interests
 <br/>
 
 **Harrison Specht**, Nikolai Slavov. "Transformative Opportunities for Single-Cell Proteomics." ***Journal of Proteome Research.*** 2018. doi.org/10.1021/acs.jproteome.8b00257
+
+<br/>
 
 [![](/images/pr-2018-002576_0003.jpeg)](doi.org/10.1021/acs.jproteome.8b00257)
 
