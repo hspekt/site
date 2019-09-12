@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post
+title: Website is up! 
 categories: Miscellaneous
 ---
 
-Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. Test, will be taken down. 
+Finally got my personal website (you are on it) up and running using the wizardry of GitHub Pages, Jekyll and a template GitHub directory! 
