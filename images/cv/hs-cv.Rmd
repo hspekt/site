@@ -12,9 +12,9 @@ jobtitle: "Graduate Student, Bioengineering, Northeastern Univeristy"
 address: "360 Huntington Ave, Boston, MA 02110"
 fontawesome: yes
 email: specht.h@husky.neu.edu
-github: hspekt
+#github: harrisonspecht
 #phone: "+1 555 5555"
-web: hspekt.github.io
+web: harrisonspecht.com
 updated: yes
 
 keywords: RMarkdown, academic CV, template
@@ -62,15 +62,21 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Gray Huffman, **Harrison Specht**, Albert Tian Chen, Nikolai Slavov. "DO-MS: Data-Driven Optimization of Mass Spectrometry Methods." bioRxiv. 2019. doi: https://doi.org/10.1101/512152. Submitted to Journal of Proteome Research. 
+**Harrison Specht**, Edward Emmott, David H. Perlman, Antonius Koller, Nikolai Slavov. "High-throughput single-cell proteomics quantifies the emergence of macrophage heterogeneity." bioRxiv. 2019. doi: https://doi.org/10.1101/665307
 
-**Harrison Specht**, Guillaume Harmange, David H Perlman, Edward Emmott, Zachary Niziolek, Bogdan Budnik, Nikolai Slavov. "Automated sample preparation for high-throughput single-cell proteomics." bioRxiv. 2018. doi:https://doi.org/10.1101/399774
+Gray Huffman,  Albert Tian Chen, **Harrison Specht**, Nikolai Slavov. "DO-MS: Data-Driven Optimization of Mass Spectrometry Methods." doi:  https://doi.org/10.1021/acs.jproteome.9b00039. ***Journal of Proteome Research.*** 2019. 
 
-**Harrison Specht**, Nikolai Slavov. "Transformative Opportunities for Single-Cell Proteomics." ***Journal of Proteome Research.*** 2018. doi:10.1021/acs.jproteome.8b00257
+**Harrison Specht**, Guillaume Harmange, David H Perlman, Edward Emmott, Zachary Niziolek, Bogdan Budnik, Nikolai Slavov. "Automated sample preparation for high-throughput single-cell proteomics." bioRxiv. 2018. doi: https://doi.org/10.1101/399774
+
+**Harrison Specht**, Nikolai Slavov. "Transformative Opportunities for Single-Cell Proteomics." ***Journal of Proteome Research.*** 2018. doi: 10.1021/acs.jproteome.8b00257
 
 Rajiv K. Khajuria, Mathias Munschauer, Jacob C. Ulirsch, Claudia Fiorini, Leif S. Ludwig, Sean K. McFarland, Nour J. Abdulhay, **Harrison Specht**, Hasmik Keshishian, D.R. Mani, Marko Jovanovic, Steven R. Ellis, Charles P. Fulco, Jesse M. Engreitz, Sabina Sch?tz, John Lian, Karen W. Gripp, Olga K. Weinberg, Geraldine S. Pinkus, Lee Gehrke, Aviv Regev, Eric S. Lander, Hanna T. Gazda, Winston Y. Lee, Vikram G. Panse, Steven A. Carr, Vijay G. Sankaran. "Ribosome Levels Selectively Regulate Translation and Lineage Commitment in Human Hematopoiesis." ***Cell.*** 2018.
 
 Hasmik Keshishian, Michael W. Burgess, **Harrison Specht**, Luke Wallace, Karl R. Clauser, Michael A. Gillette, Stephen A. Carr. "Quantitative, Multiplexed Workflow for Deep Analysis of Human Blood Plasma and Biomarker Discovery by Mass Spectrometry." ***Nature Protocols.*** 2017 Jul 27. doi:10.1038/nprot.2017.054
+
+# INVITED TALKS
+
+**2020**. **Harrison Specht**. "High-throughput single-cell proteomics in the core facility setting." Association of Biomolecular Resource Facilities (ABRF) 2020 Annual Meeting. 
 
 # PRESENTATIONS
 
