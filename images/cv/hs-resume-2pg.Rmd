@@ -1,0 +1,156 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Harrison Specht
+orcid: "https://orcid.org/0000-0003-3151-6803"
+jobtitle: "Graduate Student, Bioengineering, Northeastern Univeristy"
+address: "360 Huntington Ave, Boston, MA 02110"
+fontawesome: yes
+email: specht.h@husky.neu.edu
+#github: harrisonspecht
+#phone: "+1 555 5555"
+web: harrisonspecht.com
+updated: yes
+keywords: single cell proteomics, data analysis, R 
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*Northeastern Universiy*, Ph.D. Bioengineering, Graduate Student \hfill expected 2021
+
+*Cornell University*, B.A. Chemistry, *magna cum laude* \hfill 2014  
+
+# RELEVANT RESEARCH EXPERIENCE
+
+*Northeastern University*
+
+ > Slavov Lab, Bioengineering & Barnett Institute, Graduate Student \hfill 2016--
+ 
+*Broad Institute of MIT and Harvard*
+
+ > Proteomics Platform, Research Associate \hfill 2014--2016
+
+<!-- *Cornell University, Ithaca, NY* -->
+
+<!--  > Petersen Lab, Department of Chemistry, Research Assistant \hfill 2012--2014 -->
+
+<!--  > Zinder Lab, Department of Microbiology, Research Assistant \hfill 2010--2011 -->
+
+<!--  > The Triple Helix, magazine, Executive Editor-in-chief \hfill 2013 -- 2014 -->
+
+<!--  *Bermuda Institute for Ocean Sciences* -->
+
+<!--  > National Science Foundation REU Fellow \hfill 2013 -->
+
+<!-- *Vertex Pharmaceuticals, Boston, MA* -->
+
+<!--  > Drug Metabolism and Pharmacokinetics, Internship \hfill 2013 -->
+
+# FELLOWSHIPS AND AWARDS
+
+**2019**  *2nd place in Chemical Biology*, Royal Society of Chemistry Twitter Poster Conference
+
+**2016--**   *College of Engineering Dean's Distinguished Fellowship*, Northeastern University
+
+**2013**   *National Science Foundation REU Fellowship*, Bermuda Institute for Ocean Sciences
+
+**2013**   *Best Oral Presentation*, Bermuda Institute for Ocean Science NSF REU Program
+
+# PUBLICATIONS
+
+**Specht, H.**, Emmott, E., Petelski, A.A., Huffman, R.G., Perlman, D.H., Serra, M., Kharchenko, P., Koller, A., Slavov, N., 2019. Single-cell mass-spectrometry quantifies the emergence of macrophage heterogeneity. bioRxiv 665307. https://doi.org/10.1101/665307
+
+Huffman, R.G., Chen, A., **Specht, H.**, Slavov, N., 2019. DO-MS: Data-Driven Optimization of Mass Spectrometry Methods. J. Proteome Res. 18, 2493-2500. https://doi.org/10.1021/acs.jproteome.9b00039
+
+**Specht, H.**, Harmange, G., Perlman, D.H., Emmott, E., Niziolek, Z., Budnik, B., Slavov, N., 2018. Automated sample preparation for high-throughput single-cell proteomics. bioRxiv 399774. https://doi.org/10.1101/399774
+
+**Specht, H.**, Slavov, N., 2018. Transformative Opportunities for Single-Cell Proteomics. J. Proteome Res. 17, 2565-2571. https://doi.org/10.1021/acs.jproteome.8b00257
+
+Khajuria, R.K., Munschauer, M., Ulirsch, J.C., Fiorini, C., Ludwig, L.S., McFarland, S.K., Abdulhay, N.J., **Specht, H.**, Keshishian, H., Mani, D.R., Jovanovic, M., Ellis, S.R., Fulco, C.P., Engreitz, J.M., Schutz, S., Lian, J., Gripp, K.W., Weinberg, O.K., Pinkus, G.S., Gehrke, L., Regev, A., Lander, E.S., Gazda, H.T., Lee, W.Y., Panse, V.G., Carr, S.A., Sankaran, V.G., 2018. Ribosome Levels Selectively Regulate Translation and Lineage Commitment in Human Hematopoiesis. Cell 173, 90-103.e19. https://doi.org/10.1016/j.cell.2018.02.036
+
+Keshishian, H., Burgess, M.W., **Specht, H.**, Wallace, L., Clauser, K.R., Gillette, M.A., Carr, S.A., 2017. Quantitative, multiplexed workflow for deep analysis of human blood plasma and biomarker discovery by mass spectrometry. Nat Protoc 12, 1683-1701. https://doi.org/10.1038/nprot.2017.054
+
+<!-- **Harrison Specht**, Edward Emmott,  Aleksandra A. Petelski, R. Gray Huffman, David H. Perlman, Marco Serra, Peter Kharchenko, Antonius Koller, Nikolai Slavov. "High-throughput single-cell proteomics quantifies the emergence of macrophage heterogeneity." bioRxiv. 2019. doi: https://doi.org/10.1101/665307 -->
+
+<!-- Gray Huffman,  Albert Tian Chen, **Harrison Specht**, Nikolai Slavov. "DO-MS: Data-Driven Optimization of Mass Spectrometry Methods." doi:  https://doi.org/10.1021/acs.jproteome.9b00039. ***Journal of Proteome Research.*** 2019.  -->
+
+<!-- **Harrison Specht**, Guillaume Harmange, David H Perlman, Edward Emmott, Zachary Niziolek, Bogdan Budnik, Nikolai Slavov. "Automated sample preparation for high-throughput single-cell proteomics." bioRxiv. 2018. doi: https://doi.org/10.1101/399774 -->
+
+<!-- **Harrison Specht**, Nikolai Slavov. "Transformative Opportunities for Single-Cell Proteomics." ***Journal of Proteome Research.*** 2018. doi: 10.1021/acs.jproteome.8b00257 -->
+
+<!-- Rajiv K. Khajuria, Mathias Munschauer, Jacob C. Ulirsch, Claudia Fiorini, Leif S. Ludwig, Sean K. McFarland, Nour J. Abdulhay, **Harrison Specht**, Hasmik Keshishian, D.R. Mani, Marko Jovanovic, Steven R. Ellis, Charles P. Fulco, Jesse M. Engreitz, Sabina Schutz, John Lian, Karen W. Gripp, Olga K. Weinberg, Geraldine S. Pinkus, Lee Gehrke, Aviv Regev, Eric S. Lander, Hanna T. Gazda, Winston Y. Lee, Vikram G. Panse, Steven A. Carr, Vijay G. Sankaran. "Ribosome Levels Selectively Regulate Translation and Lineage Commitment in Human Hematopoiesis." ***Cell.*** 2018. -->
+
+<!-- Hasmik Keshishian, Michael W. Burgess, **Harrison Specht**, Luke Wallace, Karl R. Clauser, Michael A. Gillette, Stephen A. Carr. "Quantitative, Multiplexed Workflow for Deep Analysis of Human Blood Plasma and Biomarker Discovery by Mass Spectrometry." ***Nature Protocols.*** 2017 Jul 27. doi:10.1038/nprot.2017.054 -->
+
+# TALKS
+
+**2020**. **Harrison Specht**, Edward Emmott,  Aleksandra A. Petelski, R. Gray Huffman, David H. Perlman, Marco Serra, Peter Kharchenko, Antonius Koller, Nikolai Slavov. "How to perform quantitative single cell proteomics with SCoPE2." Association of Biomolecular Resource Facilities (ABRF) 2020 Annual Meeting. *__Invited__*
+
+**2019**. **Harrison Specht**, Edward Emmott,  Aleksandra A. Petelski, R. Gray Huffman, David H. Perlman, Antonius Koller, Nikolai Slavov. "Design of single cell proteomics experiments." Single Cell Proteomics Conference. Boston, MA. 2019.
+
+**2019**. **Harrison Specht**, Nikolai Slavov. Quantifying proteins by mass spectrometry. Models, Inference, and Algorithms Seminar. Broad Institutde of MIT and Harvard. *__Chalk-talk__*
+
+**2018**. **Harrison Specht**, Guillaume Harmange, David H Perlman, Edward Emmott, Zachary Niziolek, Bogdan Budnik, Nikolai Slavov. "Automated sample preparation for high-throughput single-cell proteomics." HUPO 2018.
+
+**2018**. **Harrison Specht**, Guillaume Harmange, David H Perlman, Edward Emmott, Zachary Niziolek, Bogdan Budnik, Nikolai Slavov. "Automated sample preparation for high-throughput single-cell proteomics." Single Cell Proteomics Conference. Boston, MA. 2018.
+
+<!-- # POSTERS -->
+
+<!-- **2019**. **Harrison Specht**. "Automated sample preparation for high-throughput single-cell proteomics." Royal Society of Chemistry Twitter Poster Conference. *__Twitter poster presenter__* Awarded 2nd place in Chemical Biology category.  -->
+
+<!-- **2018**. Hasmik Keshishian, Luke Wallace, **Harrison Specht**, Judit Jan-Valbuena, Rob McDonald, Dale Petterson, Eric Kuhn, Michael Burgess, D. R. Mani, Tomas Rejtar, Javad Golji, Karen Wang, William Sellers, Steven A. Carr. "SigPath300: A high throughput MS-based assay to quantify over 300 phosphosites of known biological relevance in cells and tissues." American Society for Mass Spectrometry Annual Meeting. *__Contributor__* -->
+
+<!-- **2017**. Bogdan Budnik, Ezra Levy, **Harrison Specht**, Nikolai Slavov. "Exploring cell division dynamics across single cell proteomes." Cold Spring Harbor Laboratories: Single Cell Analyses. *__Poster Presenter__* -->
+
+<!-- **2017**. **Harrison Specht**, Ezra Levy, Bogdan Budnik, Nikolai Slavov. "Mass-spectrometry of single mammalian cells quantifies proteome heterogeneity during cell differentiation." American Society for Mass Spectrometry Annual Meeting. *__Poster Presenter__* -->
+
+<!-- **2015**. **Harrison Specht**, Hasmik Keshishian, Rajiv K. Khajuria, et al. "Addressing the challenge of ribosomal protein stoichiometry by proteomics." Broad Institute of MIT and Harvard Retreat. *__Poster Presenter__* -->
+
+<!-- **2013**. **Harrison Specht** and Andrew Peters "Investigating North Atlantic Tar in Bermuda: the hydrocarbon composition of North Atlantic pelagic tar and their hydrocarbon leaching into seawater." BIOS NEF REU Program. *__Presenter__* -->
+
+# PROFESSIONAL AFFILIATIONS & TRAINING	  
+
+  - Barnett Institute for Chemical and Biological Analysis
+  - Northeastern Univeristy Graduate Student Liason, 2018-2019
+  - eLife Ambassador, Class of 2018
+  - American Society for Mass Spectrometry
+  - May Institute on computation and statistics for mass spectrometry and proteomics, 2016
+  - Lab preprint journal club founder
+
+# TECHNIQUES
+
+**Coding and Software:** R, perl, MaxQuant, Skyline, MatLab
+
+**Experimental:** Single-cell proteomics, triple-quad and orbitrap-based mass spectrometry proteomics, antibody and chemical enrichment of proteins and peptides, liquid chromatography, robotic sample preparation, cell culture, flow cytometry and FACS
+
+<!-- # REFERENCES -->
+
+<!-- Available upon request -->
+
+<!-- \newpage -->
+<!-- # PUBLICATIONS 2017-2018 -->
+
+
+
+<!-- \newpage -->
+<!-- # PRESENTATIONS 2017-2018 -->
+
+
+
+<!-- \newpage -->
+<!-- # HONORS AND AWARDS 2017-2018 -->
+
+<!-- **2016--**  *College of Engineering Dean's Distinguished Fellowship*, Northeastern University -->
+
+
