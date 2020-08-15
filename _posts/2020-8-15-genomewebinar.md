@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 50+ questions about SCoPE2 answered! 
-categories: SCoPE2
+categories: Research
 ---
 
 I endeavored to answer all the questions asked during [this GenomeWeb seminar I gave](https://www.genomeweb.com/resources/webinars/affordable-quantitative-single-cell-proteomics-scope2). Thanks to all who attended and to all who asked questions. 
