@@ -4,17 +4,13 @@ title: 50+ questions about SCoPE2 answered!
 categories: Miscellaneous
 ---
 
-I have endeavored to answer all the questions asked during [this GenomeWeb seminar I gave](https://www.genomeweb.com/resources/webinars/affordable-quantitative-single-cell-proteomics-scope2), with as minimal editing of the questions as possible.   
+I endeavored to answer all the questions asked during [this GenomeWeb seminar I gave](https://www.genomeweb.com/resources/webinars/affordable-quantitative-single-cell-proteomics-scope2). Phew! There were a lot! Thanks to all who attended and to all who asked questions. 
 
 ***
 
 ## 50+ questions about SCoPE2 answered!
 
 ***
-
-**Do you do MS3?**
-
-No, though I think thereis no reason the claimed benefits of MS3 would not apply.  
 
 **How do you avoid sample loss in protein level during your sample processing since the carrier is added after sample processing?**
 
@@ -44,6 +40,10 @@ If all SCoPE contain the same reference channel, any number of runs, and thus si
 **Have you ever tried label-free MS measurement for single cells since it will rule out potential TMT issues?**
 
 We have not. Our interest lies in analyzing 1000s of single cells, which requires the throughput afforded by mutliplexing. We are interested in improving multiplexing reagents to enable more single cells analyzed per run. 
+
+**Do you do MS3?**
+
+No, though I think thereis no reason the claimed benefits of MS3 would not apply.  We use other approaches for decreasing coisolation, such as optmizing duty cycles to target the apex of the peptide elution, since they do not decrease sensitivity. MS3 result in ions loss and thus decreased ion sampling for quantification. 
 
 **Do you work also with fixed cells? Or just fresh samples?**
 
