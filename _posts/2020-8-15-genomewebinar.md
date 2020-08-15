@@ -8,8 +8,6 @@ categories: Miscellaneous
 
 I have endeavored to answer all the questions asked during [this GenomeWeb seminar I gave](https://www.genomeweb.com/resources/webinars/affordable-quantitative-single-cell-proteomics-scope2), with as minimal editing of the questions as possible.   
 
-## Audience questions asked and answered, in order of submission: 
-
 **Do you do MS3?**
 
 No, though I think thereis no reason the claimed benefits of MS3 would not apply.  
