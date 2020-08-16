@@ -24,7 +24,7 @@ Yes. We used 100 cell-equivalents of two cell types (macrophage and monocyte) fo
 
 **For TMT reagent, how much do you use for carrier, reference and sample channels?**
 
-When preparing the carrier and reference in bulk before diluting to 200 cell-equivalents, we follow the manufacturer's recommendation. When preparing the sample channels, we add 0.5µL of quarter-strength TMT reagent (diluted 1:4 from the manufacturers recommendation) to 1$\mu$L of digested sample.  
+When preparing the carrier and reference in bulk before diluting to 200 cell-equivalents, we follow the manufacturer's recommendation. When preparing the sample channels, we add 0.5µL of quarter-strength TMT reagent (diluted 1:4 from the manufacturers recommendation) to 1µL of digested sample.  
 
 **How many proteins can be reliably quantified in a single run?**
 
