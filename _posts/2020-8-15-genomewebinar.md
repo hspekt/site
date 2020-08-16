@@ -15,7 +15,7 @@ I endeavored to answer all the questions asked during [this GenomeWeb seminar I 
 
 **How do you avoid sample loss in protein level during your sample processing since the carrier is added after sample processing?**
 
-SCoPE2 samples are prepared in 1$\mu$L of water to minimize surface adsorption, and future improvements of the approach will certainly involve minimizing the the volume of sample preparation further. Additionally, before adding the cells, the wells are passivated with a mixture of seven purified peptides extremely unlikely to be observed in our sample. This helps mitigates the adsorption of proteins and peptides for all steps in the process.   
+SCoPE2 samples are prepared in 1µL of water to minimize surface adsorption, and future improvements of the approach will certainly involve minimizing the the volume of sample preparation further. Additionally, before adding the cells, the wells are passivated with a mixture of seven purified peptides extremely unlikely to be observed in our sample. This helps mitigates the adsorption of proteins and peptides for all steps in the process.   
 
 **For carrier channel cells, are they an equal aliquot mixture of all other single cell samples?**
 
@@ -24,7 +24,7 @@ Yes. We used 100 cell-equivalents of two cell types (macrophage and monocyte) fo
 
 **For TMT reagent, how much do you use for carrier, reference and sample channels?**
 
-When preparing the carrier and reference in bulk before diluting to 200 cell-equivalents, we follow the manufacturer's recommendation. When preparing the sample channels, we add 0.5$\mu$L of quarter-strength TMT reagent (diluted 1:4 from the manufacturers recommendation) to 1$\mu$L of digested sample.  
+When preparing the carrier and reference in bulk before diluting to 200 cell-equivalents, we follow the manufacturer's recommendation. When preparing the sample channels, we add 0.5µL of quarter-strength TMT reagent (diluted 1:4 from the manufacturers recommendation) to 1$\mu$L of digested sample.  
 
 **How many proteins can be reliably quantified in a single run?**
 
