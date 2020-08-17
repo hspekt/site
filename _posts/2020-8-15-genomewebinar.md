@@ -28,15 +28,17 @@ When preparing the carrier and reference in bulk before diluting to 200 cell-equ
 
 **How many proteins can be reliably quantified in a single run?**
 
-We identify ~800 proteins per run. Reliability of the protein quantitation is best determined by comparing the quantitation of their consitutive peptides. However, not every protein we identify has multiple peptides observed and quantified. We observe 10\% missing data in a given run. 
+The number of quantified proteins depends on your priorities reflected in the method parameters. We identify ~800 proteins per run with 60min active gradient and relatively long (300ms) ion accumulation times. Increasing the gradient length or increasing the isobaric carrier and decreasing ion accumulation times can increase the number of proteins / run.
+
+Reliability of the protein quantitation is best determined by comparing the quantitation of their consitutive peptides. However, not every protein we identify has multiple peptides observed and quantified. We observe 10\% missing data in a given run. 
 
 **Regarding isobaric carryover, can you correct the carryover between single cells? Take the case of one cell that expresses a gene orders of magnitude higher than another cell.**
 
-We anticipate that we can correct from isotopic impurities in the isobaric tags with similar efficacy as bulk proteomic techniques.
+Theoretically, the expectation is that isotopic impurities in the isobaric tags can be corrected with similar efficacy in SCoPE2 sets and bulk samples, and this expectation is supported by our benchmark experiments. 
 
 **How many runs can be reliably combined? What's the maximum number of cells that can be quantified?**
 
-If all SCoPE contain the same reference channel, any number of runs, and thus single cells, can be combined. The reliability of combining samples then becomes a question of not inducing batch effects, which we discussed a bit at [SCP2019](https://www.youtube.com/watch?v=mz6Yq2XSu-8&feature=youtu.be).  
+If all SCoPE sets contain the same reference channel, any number of runs, and thus single cells, can be combined. The reliability of combining samples then becomes a question of not inducing batch effects, which we discussed a bit at [SCP2019](https://www.youtube.com/watch?v=mz6Yq2XSu-8&feature=youtu.be).  
 
 **Have you ever tried label-free MS measurement for single cells since it will rule out potential TMT issues?**
 
@@ -58,7 +60,7 @@ To start, we suggest preparing a sample with SCoPE-like sample with 100-fold mor
 
 **Transcriptomics correlates well with proteomics data are weird, right?**
 
-We found some types of proteins positively correlate with their transcript across cell types, other types show an inverse relationship! [See Supplemental Figures 5 and 6](https://www.biorxiv.org/content/10.1101/665307v3). 
+The degree of correspondence between RNA and protein levels that we measured is a bit lower with that observed with in [some bulk studies](Jovanovich_2015) and comparable to that observed in [other studies](Franks_2017). We found some types of proteins positively correlate with their transcript across cell types, other types show an inverse relationship! [See Supplemental Figures 5 and 6](https://www.biorxiv.org/content/10.1101/665307v3). 
 
 **Do you seal the 384 well plate?**
 
@@ -157,7 +159,7 @@ I don't remember cellulose acetate coming up, contact me to elaborate!
 
 **If combining multiple runs, typically what percentage of proteins are identified across all/most of these runs? Or are there only a few reproducibly quantified proteins?**
 
-Across our 1,018 cell data set, the average protein is identified in at least 213 individual cells. To compute missing values for your protein of interest, check out the peptide or protein level data that we've uploaded in an easy-to-understand format, [here](https://scope2.slavovlab.net/docs/data). 
+Across the 1,018 cell data set, we quantified over 2,700 proteins and the average protein, the average protein is identified in at least 213 individual cells. To compute missing values for your protein of interest, check out the peptide or protein level data that we've uploaded in an easy-to-understand format, [here](https://scope2.slavovlab.net/docs/data). 
 
 **I have gotten the ion tansfer tube and column tip dirty with yellowish content after the single TMT samples?**
 
@@ -165,7 +167,7 @@ We too observed the quenched TMT in our samples dirtying the ion transfer tube. 
 
 **Are there specific protein properties that would prevent detection of, or bias towards detection of that particular type?**
 
-Data dependent acquisition (DDA) mass spectrometry methods prioritize peptides for analysis by their abundance of their ions in the mass spectrometer. This correlates with being biased towards analyzing more abundant proteins. However, targeted approaches (where the peptide m/z and retention time on the analytical column are known) allow us to pick and choose peptides in a less biased manner.   
+Yes, and these are the same properties at play in bulk MS analysis. Data dependent acquisition (DDA) mass spectrometry methods prioritize peptides for analysis by their abundance of their ions in the mass spectrometer. This correlates with being biased towards analyzing more abundant proteins. However, targeted approaches (where the peptide m/z and retention time on the analytical column are known) allow us to pick and choose peptides in a less biased manner.   
 
 **Is it possible to analyze the proteomic pattern of single cells fixed in PFA or other fixatives?**
 
@@ -173,11 +175,11 @@ Any fixative that is compatible with bulk proteomic analysis and flow cytometry 
 
 **Compared with single cell RNAseq, are SCOPES2 data variabilities larger?**
 
-Within group variability (ie comparing monocytes to monocytes, macrophages to macrophages) is smaller for SCoPE2 as compared to scRNAseq. 
+Within group variability (ie comparing monocytes to monocytes, macrophages to macrophages) is smaller for SCoPE2 as compared to scRNAseq, as demonstrated by [stronger correlations within a cell type in Figure S3](https://www.biorxiv.org/content/10.1101/665307v3). 
 
 **Can you detect phosphorylation?**
 
-Highly-abundant phosphorylation, yes. However, most phosphorylation is lowly abundant and will require improving the delivery of ions from single cells to the MS. 
+Yes, our preliminary data suggest the isobaric carrier can enable quantifying phosphorylated peptides from single cells, but we have not completely optimized and benchmarked this type of analysis However, most phosphorylation is lowly abundant and will require improving the delivery of ions from single cells to the MS. 
 
 **Do you use a particular buffer?**
 
@@ -201,7 +203,7 @@ Yes, however we found that loss of peptides to surface adsorption was greater.
 
 **The peptides from Waters MassPrep you added will be also labled with TMT. How did you avoid the quantitation interference from these protein mixture?**
 
-The Waters MassPrep peptides tend not to ionize well.  Even so, they were a purified peptide mixture of only a few peptides. This meant that we would (at worst) not be able to analyze other peptides while these eluted. Since our peptides typically eluted in ~10-15s, this meant that less than 2 minutes of our 60 minute active gradient would be spend analyzing those peptides. We considered the benefit of passivating the plastic surfaces worth this cost. 
+The Waters MassPrep peptides tend not to ionize well.  Even so, they were a purified peptide mixture of only a few peptides. This meant that we would (at worst) not be able to analyze other peptides while these eluted. Since our peptides typically eluted in ~10-15s, this meant that less than 2 minutes of our 60 minute active gradient would be spend analyzing those peptides. We considered the benefit of passivating the plastic surfaces worth this cost. We have only ever detected one of the MassPrep peptides using the LC-MS parameters we use for SCoPE2 data acquisition. 
 
 **How many cells do you need to robustly define a cluster?**
 
@@ -221,7 +223,7 @@ We observe some gene ontologies correlate positively between the protein and RNA
 
 **Why do you combine sonication and benzonase?**
 
-For processing the single cells, we do not combine sonication and benzonase. 
+This approaches are used to degrade nucleic acids and enhance cell disruption and release of molecules. However, we do not combine sonication and benzonase for processing single cells. 
 
 **Are membrane protein degraded by your process?**
 
@@ -237,4 +239,4 @@ Sorting adds ~3nL of sheath fluid. This is <0.3% of the lysis and digestion volu
 
 **Can you foresee possible droplet-based adaptations emerge? What might be the biggest bottleneck for that?**
 
-I would love to have droplet-based approaches! The biggest hurdle I see is the incompadibility of PDMS with organic solvent (used in TMT labelling). It dissolves! 
+I would love to have droplet-based approaches! A big hurdle I see is the incompadibility of PDMS with organic solvent (used in TMT labelling). It dissolves! 
