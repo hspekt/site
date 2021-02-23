@@ -11,7 +11,7 @@ orcid: "https://orcid.org/0000-0003-3151-6803"
 jobtitle: "Graduate Student, Bioengineering, Northeastern Univeristy"
 address: "360 Huntington Ave, Boston, MA 02110"
 fontawesome: yes
-email: specht.h@northeastern.edu
+email: specht.h@husky.neu.edu
 #github: harrisonspecht
 #phone: "+1 555 5555"
 web: harrisonspecht.com
@@ -78,7 +78,7 @@ urlcolor: blue
 
 # PUBLICATIONS
 
-**Specht, H.**, Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). https://doi.org/10.1186/s13059-021-02267-5
+**Specht, H.**, Emmott, E., Petelski, A.A., Huffman, R.G., Perlman, D.H., Serra, M., Kharchenko, P., Koller, A., Slavov, N., 2021. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. bioRxiv. https://doi.org/10.1101/665307   ***in press at Genome Biology***
 
 **Specht, H.**, Slavov, N., 2021. Optimizing accuracy and depth of protein quantification in experiments using isobaric carriers. J. Proteome Res. 20, 880-887. https://doi.org/10.1021/acs.jproteome.0c00675
 
@@ -149,7 +149,7 @@ Keshishian, H., Burgess, M.W., **Specht, H.**, Wallace, L., Clauser, K.R., Gille
 
 **Coding and Software:** R, Shiny, MS-Fragger, DIA-NN, SpectroNaut, MaxQuant, Skyline
 
-**Experimental:** Single-cell proteomics, triple-quad and orbitrap-based mass spectrometry proteomics, data dependent (DDA) and data independant (DIA) acquisition, protein and peptide N-terminomics, phosphoproteomics, antibody and chemical enrichment of proteins and peptides, reverse-phase and ERLIC liquid chromatography, robotic sample preparation, cell culture, flow cytometry
+**Experimental:** Single-cell proteomics, triple-quad, timsTOF, orbitrap-based mass spectrometry proteomics, data dependent (DDA) and data independant (DIA) acquisition, protein and peptide N-terminomics, phosphoproteomics, antibody and chemical enrichment of proteins and peptides, reverse-phase and ERLIC liquid chromatography, robotic sample preparation, cell culture, flow cytometry
 
 # REFERENCES
 
