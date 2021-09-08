@@ -64,6 +64,10 @@ urlcolor: blue
 
 # FELLOWSHIPS AND AWARDS
 
+**2021**  *NSF I-Corps* Site Program at Northeastern
+
+**2021**  *Frequency Bio by Pillar VC & Petri* pillar.vc/frequency/
+
 **2020**  *Rising Stars in Proteomics and Metabolomics*, Journal of Proteome Research.
   
   > https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c01026 
@@ -78,9 +82,13 @@ urlcolor: blue
 
 # PUBLICATIONS
 
+Petelski, A.A., Emmott, E., Leduc, A., Huffman, R.G., **Specht, H.**, Perlman, D.H., Slavov, N. Multiplexed single-cell proteomics using SCoPE2. bioRxiv 2021.03.12.435034; doi: https://doi.org/10.1101/2021.03.12.435034 **In press at Nature Protocols**
+
 **Specht, H.**, Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). https://doi.org/10.1186/s13059-021-02267-5
 
 **Specht, H.**, Slavov, N., 2021. Optimizing accuracy and depth of protein quantification in experiments using isobaric carriers. J. Proteome Res. 20, 880-887. https://doi.org/10.1021/acs.jproteome.0c00675
+
+Keshishian et al. Highly multiplexed quantitative phosphosite assay for biology and preclinical studies. bioRxiv 2020.12.08.415281; doi: https://doi.org/10.1101/2020.12.08.415281 **In press at Molecular Systems Biology**
 
 Huffman, R.G., Chen, A., **Specht, H.**, Slavov, N., 2019. DO-MS: Data-Driven Optimization of Mass Spectrometry Methods. J. Proteome Res. 18, 2493–2500. https://doi.org/10.1021/acs.jproteome.9b00039
 

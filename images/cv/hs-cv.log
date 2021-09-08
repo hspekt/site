@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.25)  23 FEB 2021 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.25)  31 AUG 2021 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -443,23 +443,23 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {/Users/hs/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-319.
+335.
 (/Users/hs/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) 
+) [3] 
 AED: lastpage setting LastPage
-[3] [4] (./hs-cv.aux)
+[4] (./hs-cv.aux)
 Package rerunfilecheck Info: File `hs-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 910702F045EAAAE7892387BCCB56BBF9;1115.
  ) 
 Here is how much of TeX's memory you used:
  12329 strings out of 481252
  173900 string characters out of 5915248
- 476204 words of memory out of 5000000
+ 477204 words of memory out of 5000000
  29060 multiletter control sequences out of 15000+600000
  439804 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,11n,74p,1194b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,74p,1194b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/hs/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/hs
 /Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/h
 s/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</U
@@ -471,10 +471,10 @@ rary/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/hs/Library/
 TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/hs/Library/Tiny
 TeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/hs/Library/TinyTeX/t
 exmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on hs-cv.pdf (4 pages, 132751 bytes).
+Output written on hs-cv.pdf (4 pages, 134610 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+ 152 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
