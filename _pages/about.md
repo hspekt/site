@@ -15,13 +15,11 @@ permalink: /about/
   
 <a href="{{ site.baseurl }}/images/cv/hs-cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 
-Feel free to contact me at `specht.h at husky dot neu dot edu` to discuss any of the following topics: 
+Feel free to contact me at `specht.h at northeastern dot edu` to discuss any of the following topics: 
 
   - Finding a great graduate school mentor
-  - Graduate school in general
   - Proteomics
   - R programming
-  - Mountain biking... 
 
 <br/><br/>
 
