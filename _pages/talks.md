@@ -5,6 +5,20 @@ permalink: /talks/
 description:
 ---
 
+## Publicly-available talks
+
+<br/><br/>
+
+### GenomeWeb Webinar Series, 2020.
+
+<center>
+ <a href="https://event.on24.com/wcc/r/2213970/D72B03367640C4017A50C1BB88BCC3D2?partnerref=seriespage">
+    <img src="https://event.on24.com/event/22/13/97/0/rt/1/logo/event/gwabrf20990x1004920.jpg" alt="GenomeWeb">
+  </a> 
+</center>
+
+<br/><br/>
+
 ### Single Cell Proteomics Conference, 2019.
 
 <center>

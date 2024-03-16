@@ -8,10 +8,10 @@ geometry: margin=1in
 title: "CV"
 author: Harrison Specht
 orcid: "https://orcid.org/0000-0003-3151-6803"
-jobtitle: "Graduate Student, Bioengineering, Northeastern Univeristy"
-address: "360 Huntington Ave, Boston, MA 02110"
+jobtitle: "Co-founder, Parallel Squared Technology Institute"
+address: "Watertown, MA"
 fontawesome: yes
-email: specht.h@northeastern.edu
+email: hms89@cornell.edu
 #github: harrisonspecht
 #phone: "+1 555 5555"
 web: harrisonspecht.com
@@ -28,15 +28,19 @@ urlcolor: blue
 
 # EDUCATION
 
-*Northeastern Universiy*, Ph.D. Bioengineering, Graduate Student \hfill expected 2021
+*Northeastern University*, Ph.D. Bioengineering \hfill 2022
 
 *Cornell University*, B.A. Chemistry, *magna cum laude* \hfill 2014  
 
 # RESEARCH EXPERIENCE
 
+*Parallel Squared Technology Institute*
+
+ > Co-founder \hfill 2023-Present
+
 *Northeastern University*
 
- > Slavov Lab, Bioengineering & Barnett Institute, Graduate Student \hfill 2016--
+ > Slavov Lab, Bioengineering & Barnett Institute, Graduate Student \hfill 2016--2022
  
  *Merck, Sharpe & Dohme Corporation*
 
@@ -52,7 +56,7 @@ urlcolor: blue
  
  > Zinder Lab, Department of Microbiology, Research Assistant \hfill 2010--2011
  
- > The Triple Helix, magazine, Executive Editor-in-chief \hfill 2013 -- 2014
+ > The Triple Helix magazine, Executive Editor-in-chief \hfill 2013 -- 2014
  
  *Bermuda Institute for Ocean Sciences*
 
@@ -64,7 +68,7 @@ urlcolor: blue
 
 # FELLOWSHIPS AND AWARDS
 
-**2021**  *NSF I-Corps* Site Program at Northeastern
+**2021**  *NSF I-Corps Grant* $10,000 for development of single cell proteomics venture
 
 **2021**  *Frequency Bio by Pillar VC & Petri* pillar.vc/frequency/
 
@@ -78,11 +82,20 @@ urlcolor: blue
 
 **2013**   *Best Oral Presentation*, Bermuda Institute for Ocean Science NSF REU Program
 
-**2013**   *National Science Foundation REU Fellowship*, Bermuda Institute for Ocean Sciences
+
+# EXPERTISE
+
+**Computational:** Proteomics data processing (DIA, DDA, phospho-, targeted-), transcriptomics and proteomics data integration, protein-set enrichment analysis (PSEA), gene-set enrichment analysis (GSEA), imputation, principal component analysis (PCA), created first computational single cell proteomics data processing pipeline (https://github.com/SlavovLab/SCoPE2/, replicated by 'scp' package: https://bioconductor.org/packages/release/bioc/html/scp.html)    
+
+**Coding and Software:** R, Shiny, MS-Fragger, DIA-NN, SpectroNaut, MaxQuant, Skyline
+
+**Experimental:** Single-cell proteomics, triple-quad and orbitrap-based mass spectrometry proteomics, data dependent (DDA) and data independent (DIA) acquisition, protein and peptide N-terminomics, phosphoproteomics, antibody and chemical enrichment of proteins and peptides, reverse-phase and ERLIC liquid chromatography, robotic sample preparation, cell culture, flow cytometry
 
 # PUBLICATIONS
+ 
+Derks, J., Leduc, A., Huffman, R.G., **Specht, H.**, Ralser, M., Demichev, V., Slavov, N. Increasing the throughput of sensitive proteomics by plexDIA. biorxiv. 2021. https://doi.org/10.1101/2021.11.03.467007
 
-Petelski, A.A., Emmott, E., Leduc, A., Huffman, R.G., **Specht, H.**, Perlman, D.H., Slavov, N. Multiplexed single-cell proteomics using SCoPE2. bioRxiv 2021.03.12.435034; doi: https://doi.org/10.1101/2021.03.12.435034 **In press at Nature Protocols**
+Petelski, A.A., Emmott, E., Leduc, A., Huffman, R.G., **Specht, H.**, Perlman, D.H., Slavov, N. Multiplexed single-cell proteomics using SCoPE2. Nature Protocols. doi: https://doi.org/10.1101/2021.03.12.435034
 
 **Specht, H.**, Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). https://doi.org/10.1186/s13059-021-02267-5
 
@@ -112,6 +125,10 @@ Keshishian, H., Burgess, M.W., **Specht, H.**, Wallace, L., Clauser, K.R., Gille
 
 <!-- Hasmik Keshishian, Michael W. Burgess, **Harrison Specht**, Luke Wallace, Karl R. Clauser, Michael A. Gillette, Stephen A. Carr. "Quantitative, Multiplexed Workflow for Deep Analysis of Human Blood Plasma and Biomarker Discovery by Mass Spectrometry." ***Nature Protocols.*** 2017 Jul 27. doi:10.1038/nprot.2017.054 -->
 
+# REVIEWER
+
+Molecular and Cellular Proteomics, Journal of Proteome Research, Bioinformatics
+
 # TALKS
 
 **2020**. **Harrison Specht**, Edward Emmott,  Aleksandra A. Petelski, R. Gray Huffman, David H. Perlman, Marco Serra, Peter Kharchenko, Antonius Koller, Nikolai Slavov. "How to perform quantitative single cell proteomics with SCoPE2." GenomeWeb Webinar Series. *__Invited__*
@@ -140,24 +157,18 @@ Keshishian, H., Burgess, M.W., **Specht, H.**, Wallace, L., Clauser, K.R., Gille
 
 **2013**. **Harrison Specht** and Andrew Peters "Investigating North Atlantic Tar in Bermuda: the hydrocarbon composition of North Atlantic pelagic tar and their hydrocarbon leaching into seawater." BIOS NEF REU Program. *__Presenter__*
 
+
 # PROFESSIONAL AFFILIATIONS, TRAINING & SERVICE	  
 
-  - Volunteer moderator for Single Cell Proteomics Conference (Zoom) 2020
-  - Volunteer for Single Cell Proteomics Conference 2018, 2019
-  - Northeastern Univeristy Graduate Student Liason, 2018-2019
+  - Volunteer at Single Cell Proteomics Conference 2018, 2019, 2021, 2023
+  - Volunteer moderator for Single Cell Proteomics Conference 2020, 2023
+  - Northeastern University Graduate Student Liason, 2018-2019
   - Member of Northeastern University Fencing Club
   - Member of Barnett Institute for Chemical and Biological Analysis
   - eLife Ambassador, 2018
   - ASAPbio Ambassador, 2018
   - American Society for Mass Spectrometry
   - May Institute on computation and statistics for mass spectrometry and proteomics, 2016
-  - Lab preprint journal club founder
-
-# TECHNIQUES
-
-**Coding and Software:** R, Shiny, MS-Fragger, DIA-NN, SpectroNaut, MaxQuant, Skyline
-
-**Experimental:** Single-cell proteomics, triple-quad and orbitrap-based mass spectrometry proteomics, data dependent (DDA) and data independant (DIA) acquisition, protein and peptide N-terminomics, phosphoproteomics, antibody and chemical enrichment of proteins and peptides, reverse-phase and ERLIC liquid chromatography, robotic sample preparation, cell culture, flow cytometry
 
 # REFERENCES
 
